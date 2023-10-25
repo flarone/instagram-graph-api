@@ -18,5 +18,12 @@
         "psr-4": {
             "Instagram\\": "src/Instagram/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Flarone\\Instagram\\InstagramGraphAPIServiceProvider"
+            ]
+        }
     }
 }
