@@ -21,13 +21,13 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-namespace Instagram\FacebookLogin;
+namespace Flarone\Instagram\FacebookLogin;
 
 // other classes we need to use
-use Instagram\Instagram;
-use Instagram\Request\Request;
-use Instagram\Request\Params;
-use Instagram\Request\ResponseTypes;
+use Flarone\Instagram\Instagram;
+use Flarone\Instagram\Request\Request;
+use Flarone\Instagram\Request\Params;
+use Flarone\Instagram\Request\ResponseTypes;
 
 /**
  * FacebookLogin

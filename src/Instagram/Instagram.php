@@ -24,10 +24,10 @@
 namespace Instagram;
 
 // other classes to use
-use Instagram\Request\Request;
-use Instagram\Request\Curl;
-use Instagram\Request\Params;
-use Instagram\Request\Fields;
+use Flarone\Instagram\Request\Request;
+use Flarone\Instagram\Request\Curl;
+use Flarone\Instagram\Request\Params;
+use Flarone\Instagram\Request\Fields;
 
 /**
  * Instagram

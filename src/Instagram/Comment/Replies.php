@@ -21,12 +21,12 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-namespace Instagram\Comment;
+namespace Flarone\Instagram\Comment;
 
 // other classes we need to use
-use Instagram\Instagram;
-use Instagram\Request\Params;
-use Instagram\Request\Fields;
+use Flarone\Instagram\Instagram;
+use Flarone\Instagram\Request\Params;
+use Flarone\Instagram\Request\Fields;
 
 /**
  * Replies

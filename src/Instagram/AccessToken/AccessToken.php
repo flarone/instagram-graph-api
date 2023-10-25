@@ -21,12 +21,12 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-namespace Instagram\AccessToken;
+namespace Flarone\Instagram\AccessToken;
 
 // other classes we need to use
-use Instagram\Instagram;
-use Instagram\Request\Params;
-use Instagram\Request\GrantTypes;
+use Flarone\Instagram\Instagram;
+use Flarone\Instagram\Request\Params;
+use Flarone\Instagram\Request\GrantTypes;
 
 /**
  * AccessToken

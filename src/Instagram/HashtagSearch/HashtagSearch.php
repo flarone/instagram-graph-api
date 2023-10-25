@@ -21,11 +21,11 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-namespace Instagram\HashtagSearch;
+namespace Flarone\Instagram\HashtagSearch;
 
 // other classes we need to use
-use Instagram\Instagram;
-use Instagram\Request\Params;
+use Flarone\Instagram\Instagram;
+use Flarone\Instagram\Request\Params;
 
 /**
  * Hashtag Search.
