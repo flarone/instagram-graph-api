@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Flarone\\Instagram\\": "src/Instagram/"
+            "Flarone\\Instagram\\": "src/"
         }
     },
     "extra": {

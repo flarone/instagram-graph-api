@@ -23,7 +23,6 @@
  */
 namespace Flarone\Instagram\AccessToken;
 
-// other classes we need to use
 use Flarone\Instagram\Instagram;
 use Flarone\Instagram\Request\Params;
 use Flarone\Instagram\Request\GrantTypes;
